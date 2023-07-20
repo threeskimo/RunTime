@@ -14,7 +14,7 @@ path="/path/to/your/game/binary"
 ###################################################################
 ```
 
-Then just run the `sh` script and the script will load the game for you.
+Then just run the `sh` and the script will load the game for you.
 
 ```
 ./RunTime.sh
