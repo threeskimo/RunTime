@@ -10,14 +10,14 @@ You will need to alter the `path` var in the script to the binary (game) you pla
 ```bash
 ###################################################################
 # Define path of binary to track runtime
-path="/usr/bin/kwrite"
+path="/path/to/your/game/binary"
 ###################################################################
 ```
 
-Then to run, just run the `sh` script.
+Then just run the `sh` script and the script will load the game for you.
 
 ```
 ./RunTime.sh
 ```
 
-When you close the game, the script will write the session time to a txt file as well as record the total time played over all sessions. The script will also show the session length as well as the total runtime of the binary (game) in the terminal window before closing. 
+When you close the game, the script will write the session time to a txt file as well as record the total time played over all sessions. The script will also show this info in the terminal window before closing. 
