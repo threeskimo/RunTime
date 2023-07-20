@@ -2,7 +2,7 @@
 A bash script that will track how long a program (game) has been running and keep a running total over multiple sessions. This information is tracked in a text file created in the same dir as the script.
 
 ## Why?
-Because I needed a way to track how long I was playing a specific game on my Steam Deck. I know Heroic Launcher and Lutris on Linux also track playtime for games, but this was just a fun little project I wanted to try to do to see if I could write a simple little script that tracked how long I had been playing a specific game. Great for recording my time on HowLongToBeat.com.
+Because I needed a way to track how long I was playing a specific game on my Steam Deck. I know Heroic Launcher and Lutris on Linux also track playtime for games, but this was just a fun little project I wanted to try to do to see if I could write a simple script that tracked how long I had been playing a specific game. Great for recording my time on [HowLongToBeat.com](https://www.howlongtobeat.com).
 
 ## Usage
 You will need to alter the `path` var in the script to the binary (game) you plan to track runtime for.
